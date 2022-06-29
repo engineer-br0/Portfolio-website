@@ -1,0 +1,26 @@
+body{
+    color: rgb(4, 248, 244);
+    background-color: black;
+}
+.image{
+    height: 60vh;
+    max-width: 100vw;
+    background-size: 100%;
+    background-image: url("./images/pexels-otavio-fonseca-4665064-2.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    border: 2px solid aliceblue;
+    text-align: center;
+    height: 100%;
+    width: 100vw;
+    color: rgb(8, 249, 241);
+    font-family:'Courier New', Courier, monospace;
+    font-style:italic;
+    font-weight: 530;
+    font-size: 100px;
+    text-shadow: 10px 10px 9px  rgb(0, 255, 242);
+}
