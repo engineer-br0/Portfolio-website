@@ -23,7 +23,7 @@
     
 }
 .anim{
-    po
+    
     white-space: nowrap;
     border-right: 4px solid rgb(250, 245, 245);
      animation: write 2s steps(10 ,end)  1 , blink 1s step-end infinite;
