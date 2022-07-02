@@ -1,6 +1,6 @@
 .body{
     margin-right: 0%;
-    background-color: rgb(4, 4, 4);
+    background-color: rgb(8, 8, 8);
 }
 .abx{
     border: 5px solid red;
@@ -18,5 +18,25 @@
 }
 .peela{
     color: yellow;
+}
+
+.icon{
+    
+    margin: 10px;
+    width: 80px;
+    height: 80px;
+}
+.icon:hover{
+    
+    width: 90px;
+    height: 90px;
+}
+
+.footer{
+    color: black;
+    background-image: linear-gradient(to right, rgb(252, 147, 18) , white, rgb(98, 226, 69) );
+    width: 100vw;
+    text-align: center;
+    
 }
 
